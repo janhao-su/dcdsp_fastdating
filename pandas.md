@@ -10,3 +10,9 @@
 
 ## insert row
 >[[DataFrame]].loc[ len( [[DataFrame]] )] = [row_data]
+
+
+## selection
+>| is or not "||"
+
+>& is and not "&&"
